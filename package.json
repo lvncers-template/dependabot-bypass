@@ -17,14 +17,14 @@
     "date-fns": "3.6.0",
     "lucide-react": "0.453.0",
     "nanoid": "5.1.16",
-    "next": "16.2.11",
+    "next": "16.2.12",
     "react": "19.2.8",
     "react-dom": "19.2.8",
-    "react-hook-form": "7.82.0",
+    "react-hook-form": "7.83.0",
     "zod": "3.23.8"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.5",
+    "@biomejs/biome": "2.5.6",
     "@tailwindcss/postcss": "^4",
     "@testing-library/jest-dom": "6.9.1",
     "@testing-library/react": "16.3.2",
