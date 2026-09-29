@@ -17,10 +17,10 @@
     "date-fns": "3.6.0",
     "lucide-react": "0.453.0",
     "nanoid": "5.1.16",
-    "next": "16.3.5",
+    "next": "16.3.6",
     "react": "19.3.0",
     "react-dom": "19.3.0",
-    "react-hook-form": "7.88.0",
+    "react-hook-form": "7.89.0",
     "zod": "3.23.8"
   },
   "devDependencies": {
